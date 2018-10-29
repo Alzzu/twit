@@ -1,0 +1,58 @@
+.container {
+    margin-top: 1em;
+}
+
+
+.profile-info {
+    display: block;
+    
+}
+
+.profile-image {
+    display: block;
+    width: 100%;
+
+}
+
+.profile-fullname {
+    display: block;
+    font-size: 1.2em;
+}
+
+.profile-username {
+    display: block;
+
+}
+
+.profile-email {
+    display: block;
+}
+
+.post {
+    background-color: #ededed;
+    padding: 1em;
+    margin: 1em;
+}
+
+.post-user-info {
+    display: inline-block;
+    margin-bottom: .5em;
+}
+.post-user-image {
+    float:left;
+    margin-right: .5em;
+    max-width: 64px;
+}
+
+.post-author {
+    vertical-align: top;
+}
+
+.navbar {
+    padding-right: 6em !important;
+    padding-left: 6em !important;
+}
+
+.navbar .btn {
+    margin-right: 10px;
+}
